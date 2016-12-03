@@ -6,3 +6,5 @@
 # Add branch subordinate-B
 # Add branch subordinate-C
 
+# learning git command...
+
